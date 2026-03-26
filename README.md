@@ -1,7 +1,7 @@
 # Assignment 1 — Simulated Annealing: Exam Timetable Scheduling
 ## Observation Report
 
-**Student Name  :** B. Srija Hitheshna 
+**Student Name  :** B.Srija Hitheshna 
 **Student ID    :** 2310049143
 **Date Submitted:** 21/03/2026  
 
